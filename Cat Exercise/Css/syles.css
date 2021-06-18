@@ -1,0 +1,31 @@
+/*********************TAG SELECTORS******************/
+h1{
+  color: orange;
+  font-size: 200px;
+
+}
+
+img:hover{ background-color: grey;
+}
+
+body {
+  background-color: #F4CCA4;
+}
+
+p {
+  font-size: 25px;
+}
+
+/*******************CLASS SELECTORS*****************/
+.bluesky {
+  color: lightblue;
+  background-color: #D99879;
+}
+
+.orange {
+  color: orange;
+  background-color: #F54748;
+}
+.cat { background-color:#D99879;
+ }
+ .grumpycat { border-radius:100% }
